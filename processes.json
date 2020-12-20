@@ -1,0 +1,11 @@
+{
+    "apps": [
+      {
+        "name": "blog-6004",
+        "script": "./bootstrap.js",
+        "watch": "./src",
+        "log_date_format": "YYYY-MM-DD HH:mm Z"
+      }
+    ]
+  }
+  
